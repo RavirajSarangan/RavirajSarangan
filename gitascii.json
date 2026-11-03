@@ -1,0 +1,183 @@
+{
+  "username": "RavirajSarangan",
+  "widgets": [
+    {
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "ts",
+          "js",
+          "html",
+          "css",
+          "sass",
+          "bash",
+          "vue",
+          "cs",
+          "php",
+          "py",
+          "java",
+          "ruby",
+          "c",
+          "cpp",
+          "docker",
+          "github",
+          "nextjs",
+          "mysql"
+        ],
+        "hideDecorations": false,
+        "hideBorder": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1793688046688_0"
+    },
+    {
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 276
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1793688046688_1"
+    },
+    {
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 512
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "medium",
+          "email",
+          "website",
+          "gmail",
+          "linkedin",
+          "x",
+          "portfolio",
+          "stars"
+        ],
+        "renderMode": "multi",
+        "showText": true,
+        "showIcons": true,
+        "staticMode": false,
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1793688046688_2"
+    },
+    {
+      "instanceId": "widget_8cf2fb3e-2c92-4827-b286-9e9682cc3879",
+      "widgetId": "gitfest-lineup",
+      "name": "Gitfest-lineup Widget",
+      "position": {
+        "x": 0,
+        "y": 572
+      },
+      "size": {
+        "width": 464,
+        "height": 650
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_def619fb-38bf-4d18-991a-2cbbc8328073",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 1238
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "customText": "Sarangan",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          " ▄█████   ▄████▄  ███████▄  ▄████▄  ██    ██  ▄████▄   ▄████▄  ██    ██",
+          "██       ██    ██ ██    ██ ██    ██ ███   ██ ██    ▀▀ ██    ██ ███   ██",
+          " ▀████▄  ████████ ███████▀ ████████ ██▀█  ██ ██  ████ ████████ ██▀█  ██",
+          "      ██ ██    ██ ██  ▀██▄ ██    ██ ██ ▀█ ██ ██    ██ ██    ██ ██ ▀█ ██",
+          "██████▀  ██    ██ ██    ██ ██    ██ ██   ███  ▀████▀  ██    ██ ██   ███"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_280b2ee6-54bb-4321-bae0-1523eb64e5ea",
+      "widgetId": "gitfut-card",
+      "name": "Gitfut-card Widget",
+      "position": {
+        "x": 480,
+        "y": 572
+      },
+      "size": {
+        "width": 300,
+        "height": 420
+      },
+      "config": {
+        "transparentBackground": true,
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": false,
+        "enableHolo": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0a14",
+    "textColor": "#d6e0f0",
+    "accentColor": "#6cc382",
+    "borderColor": "#1e1e38",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "codeweb"
+  },
+  "templateId": "codeweb",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1793688725065_yqhe1",
+    "updatedAt": "2026-11-03T06:52:08.063Z"
+  }
+}
