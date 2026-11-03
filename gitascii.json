@@ -31,10 +31,38 @@
           "docker",
           "github",
           "nextjs",
-          "mysql"
+          "mysql",
+          "go",
+          "rust",
+          "swift",
+          "npm"
         ],
         "hideDecorations": false,
-        "hideBorder": false
+        "hideBorder": false,
+        "technologies": [
+          "ts",
+          "js",
+          "html",
+          "css",
+          "sass",
+          "bash",
+          "vue",
+          "cs",
+          "php",
+          "py",
+          "java",
+          "ruby",
+          "c",
+          "cpp",
+          "docker",
+          "github",
+          "nextjs",
+          "mysql",
+          "go",
+          "rust",
+          "swift",
+          "npm"
+        ]
       },
       "locked": false,
       "visible": true,
@@ -177,7 +205,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793688725065_yqhe1",
-    "updatedAt": "2026-11-03T06:52:08.063Z"
+    "revision": "rev_1793688854087_90e4g",
+    "updatedAt": "2026-11-03T06:54:17.190Z"
   }
 }
