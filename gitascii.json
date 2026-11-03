@@ -62,7 +62,9 @@
           "rust",
           "swift",
           "npm"
-        ]
+        ],
+        "animationType": "scan-lines",
+        "animationPreviewKey": 7
       },
       "locked": false,
       "visible": true,
@@ -205,7 +207,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1793688854087_90e4g",
-    "updatedAt": "2026-11-03T06:54:17.190Z"
+    "revision": "rev_1793688875878_bkp7u",
+    "updatedAt": "2026-11-03T06:54:38.712Z"
   }
 }
